@@ -11,6 +11,38 @@ PulsePods is an iOS app for monitoring heart rate during workouts with AirPods P
 - Displays heart-rate history and a live chart during measurement.
 - Saves the workout record to Apple Health when measurement ends.
 
+## Screenshots
+
+### Startup and connection status
+
+The app shows AirPods connection status at launch and proceeds to measurement after connection.
+
+![Startup screen](image/初始化页面.jpg)
+
+### Live heart-rate measurement
+
+The measurement screen displays the current heart rate and live chart.
+
+![Live measurement screen](image/实时运行主界面.jpg)
+
+### Heart-rate history
+
+Review saved measurement records in the history table.
+
+![History table](image/历史表格.jpg)
+
+### Dynamic Island and Lock Screen
+
+During measurement, the app provides activity status on the Dynamic Island and Lock Screen.
+
+![Dynamic Island](image/灵动岛的效果.jpg)
+
+![Lock Screen status](image/锁屏提示效果.jpg)
+
+### Menu
+
+![App menu](image/菜单ui.jpg)
+
 ## Requirements
 
 - iPhone running iOS 18.5 or later to install and launch the app.
