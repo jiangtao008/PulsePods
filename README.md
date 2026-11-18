@@ -17,31 +17,31 @@ PulsePods 是一款面向 AirPods Pro 3 用户的 iOS 心率监测 App。它可�
 
 首次打开 App 时会显示 AirPods 连接状态；连接后可继续进入测量。
 
-![初始化页面](image/初始化页面.jpg)
+<img src="image/初始化页面.jpg" alt="初始化页面" width="50%" />
 
 ### 实时心率测量
 
 测量主界面展示当前心率和实时变化曲线。
 
-![实时运行主界面](image/实时运行主界面.jpg)
+<img src="image/实时运行主界面.jpg" alt="实时运行主界面" width="50%" />
 
 ### 心率历史记录
 
 历史页面以表格形式查看已保存的心率测量记录。
 
-![历史表格](image/历史表格.jpg)
+<img src="image/历史表格.jpg" alt="历史表格" width="50%" />
 
 ### 灵动岛与锁屏状态
 
 测量期间可在灵动岛和锁屏界面查看活动提示。
 
-![灵动岛的效果](image/灵动岛的效果.jpg)
+<img src="image/灵动岛的效果.jpg" alt="灵动岛的效果" width="50%" />
 
-![锁屏提示效果](image/锁屏提示效果.jpg)
+<img src="image/锁屏提示效果.jpg" alt="锁屏提示效果" width="50%" />
 
 ### 菜单界面
 
-![菜单 UI](image/菜单ui.jpg)
+<img src="image/菜单ui.jpg" alt="菜单 UI" width="50%" />
 
 ## 系统要求
 
